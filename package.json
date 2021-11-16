@@ -19,6 +19,7 @@
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-cache-assets": "^2.3.0",
+    "@11ty/eleventy-img": "^1.0.0",
     "@zachleat/filter-container": "^2.0.3",
     "autoprefixer": "^10.4.0",
     "cssnano": "^5.0.10",
